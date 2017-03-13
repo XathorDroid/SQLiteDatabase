@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">SQLiteDatabase</string>
+    <string name="activity_2">SecondActivity</string>
+
+    <string name="text1">Operaciones con BD</string>
+    <string name="btn1">Insertar</string>
+    <string name="btn2">Borrar</string>
+    <string name="btn3">Modificar</string>
+    <string name="btn4">Muestra Uno</string>
+    <string name="btn5">Muestra Varios</string>
+
+    <string name="nombre">Nombre</string>
+    <string name="codigo">Código</string>
+    <string name="btn6">Aceptar</string>
+    <string name="btn7">Volver</string>
+
+    <string name="msgDel">Borrado de Registro</string>
+    <string name="msgDelText">¿Está usted seguro de que quiere eliminar al Registro que ha indicado con el código</string>
+    <string name="no">No</string>
+    <string name="si">Si</string>
+</resources>
